@@ -1,4 +1,3 @@
 # Bit-Btc-Fake
-fake
-Ive always felt like this site is a scam site
+Tumbled upon this scam site
 help me check the vulnerabilities
